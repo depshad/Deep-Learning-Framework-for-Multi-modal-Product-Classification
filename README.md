@@ -8,7 +8,7 @@ Paper Link : https://sigir-ecom.github.io/ecom20DCPapers/SIGIR_eCom20_DC_paper_8
 
 Data challenge link : https://sigir-ecom.github.io/data-task.html
 
-### Notebooks
+## Notebooks
 
 #### Unimodal Model Training and Prediction Scripts
 
