@@ -8,6 +8,19 @@ Paper Link : https://sigir-ecom.github.io/ecom20DCPapers/SIGIR_eCom20_DC_paper_8
 
 Data challenge link : https://sigir-ecom.github.io/data-task.html
 
+### Notebooks
+
+#### Unimodal Model Training and Prediction Scripts
+
+1. SEResnext50_train_predict.ipynb : Fine tune the pre-trained SEResnext50 model on Rakuten images
+
+2. camembert_train_predict.ipynb : Fine tune the pre-trained Cammebert model on French text; Custom Cammbert model with vector output (used later for feature fusion)
+
+3. flaubert_train_predict.ipynb : Fine tune the pre-trained Flaubert model on French text; Custom Flaubert model with vector output (used later for feature fusion)
+
+#### Multimodal Feature Fusion
+1. 
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56831322/89715638-a5ff2280-d9c4-11ea-9ca1-be884c8b9c26.png" />
@@ -24,15 +37,3 @@ Data challenge link : https://sigir-ecom.github.io/data-task.html
 <p align="center"> Late Fusion Model </p> 
 
 
-### Notebooks
-
-#### Unimodal Model Training and Prediction Scripts
-
-1. SEResnext50_train_predict.ipynb : Fine tune the pre-trained SEResnext50 model on Rakuten images
-
-2. camembert_train_predict.ipynb : Fine tune the pre-trained Cammebert model on French text; Custom Cammbert model with vector output (used later for feature fusion)
-
-3. flaubert_train_predict.ipynb : Fine tune the pre-trained Flaubert model on French text; Custom Flaubert model with vector output (used later for feature fusion)
-
-#### Multimodal Feature Fusion
-1. 
