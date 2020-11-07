@@ -19,7 +19,12 @@ Data challenge link : https://sigir-ecom.github.io/data-task.html
 3. flaubert_train_predict.ipynb : Fine tune the pre-trained Flaubert model on French text; Custom Flaubert model with vector output (used later for feature fusion)
 
 ### Multimodal Feature Fusion
-1. 
+1. multi-modal_concatenate_fusion.ipynb : Concatenate the features extracted and train NN module on top
+
+### Porbability Level Fusion
+1. Boosted Late-Fusion.ipynb : Train LightGBM model with class probability as input
+
+
 
 
 <p align="center">
