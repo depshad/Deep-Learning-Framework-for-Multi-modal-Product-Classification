@@ -2,8 +2,8 @@
 Code repository for Rakuten Data Challenge : Multimodal Product Classification and Retrieval. 
 
 Team Transformer's solution : Deep Multi-level Boosted Fusion Learning Framework for Multi-modal Product Classification 
-
-The research has been accepted at SIGIR
+ 
+Paper Link : https://sigir-ecom.github.io/ecom20DCPapers/SIGIR_eCom20_DC_paper_8.pdf
 
 
 Data challenge link : https://sigir-ecom.github.io/data-task.html
