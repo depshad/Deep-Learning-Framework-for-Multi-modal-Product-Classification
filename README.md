@@ -22,3 +22,13 @@ Data challenge link : https://sigir-ecom.github.io/data-task.html
 <p align="center"> Late Fusion Model </p> 
 
 
+### Notebooks
+
+#### Unimodal Model Training and Prediction Scripts
+
+SEResnext50_train_predict.ipynb : Fine tune the pre-trained SEResnext50 model on Rakuten images
+
+camembert_train_predict.ipynb : Fine tune the pre-trained Cammebert model on French text; Custom Cammbert model with vector output (used later for feature fusion)
+
+flaubert_train_predict.ipynb : Fine tune the pre-trained Flaubert model on French text; Custom Flaubert model with vector output (used later for feature fusion)
+
