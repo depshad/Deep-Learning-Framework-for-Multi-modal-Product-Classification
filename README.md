@@ -8,7 +8,20 @@ Paper Link : https://sigir-ecom.github.io/ecom20DCPapers/SIGIR_eCom20_DC_paper_8
 
 Data challenge link : https://sigir-ecom.github.io/data-task.html
 
-## Notebooks
+## Abstract
+
+In this paper, we present our approach for the ’Multimodal Product 
+Classification’ task as a part of the 2020 SIGIR Workshop On eCommerce (ECOM20). The specific objective of this task is to build and
+submit systems that classify previously unseen products into their
+corresponding product type codes. We propose a deep Multi-Modal
+Multi-level Boosted Fusion Learning Framework used to categorize
+large-scale multi-modal (text and image) product data into product
+type codes. Our proposed final methodology achieved a macro F1-
+score of 91.94 on the phase 1 test dataset which is the top-scoring
+submission and third position on the scoreboard for phase 2 test
+dataset with macro F1-score of 90.53.
+
+## Code Usage
 
 ### Unimodal Model Training and Prediction Scripts
 
